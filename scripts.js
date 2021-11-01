@@ -1,4 +1,3 @@
-<script>
   function display_random_image() 
 {
      var theImages = [{
@@ -45,5 +44,3 @@ for (var p = 0; p < l; p++) {
 // display the image  
 document.body.appendChild(newImage);
 }
-
-  </script>
