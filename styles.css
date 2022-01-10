@@ -3,13 +3,15 @@
 }
 
 .input{
-    background-color:#77b570;
+    background-color:#476C43;
     padding:10px;
     margin:10px;
+    color:#e5e5e5;
 }
 
 .output{
-    background-color:#cc91cc;
+    background-color:#7a577a;
     padding:10px;
     margin:10px;
+    color:#e5e5e5;
 }
