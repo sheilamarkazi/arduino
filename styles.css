@@ -1,0 +1,15 @@
+.wrapper{
+    float:left;
+}
+
+.input{
+    background-color:#55cea0;
+    padding:10px;
+    margin:10px;
+}
+
+.output{
+    background-color:#cd9ff6;
+    padding:10px;
+    margin:10px;
+}
